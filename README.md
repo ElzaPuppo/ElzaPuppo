@@ -40,9 +40,7 @@
 
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ElzaPuppo&theme=radical" alt="keikomori" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ElzaPuppo&theme=radical" alt="elzapuppo" />
 </p>
 
-<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ElzaPuppo&bg_color=1F212E&color=F83866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
+
